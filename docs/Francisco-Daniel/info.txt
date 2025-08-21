@@ -1,0 +1,3 @@
+nome: Francisco Daniel
+usuário github: danielfreitasce
+possível papel no time: Desenvolvedor Backend
